@@ -2,13 +2,12 @@
 Demo using BenchMarkDotnet as BenchMark tool in .Net
 
 
-BenchMark could be installed as NuGet 
+BenchMark can be installed as NuGet easily 
 
 ![alt](https://mteheran.files.wordpress.com/2017/12/benchmark1.png)
 
 
 The official Web site is [text](http://benchmarkdotnet.org/) 
-
 
 The most important features in BenchMarkDotNet
 
